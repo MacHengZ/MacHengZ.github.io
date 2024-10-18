@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [School of Economics](https://economics.nankai.edu.cn), [Nankai University](https://www.nankai.edu.cn). My research interest includes Corporate Governance, International Business, and Inthernational Economics. You can find my CV here: [ZHANG, Heng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).  [Email](mailto:zhangheng_nku@yeah.net).
+I'm a forth year undergraduate student from [School of Economics](https://economics.nankai.edu.cn), [Nankai University](https://www.nankai.edu.cn). My research interest includes Corporate Governance, International Business, and Inthernational Economics. You can find my CV here: [ZHANG, Heng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).  [Email](mailto:zhangheng_nku@yeah.net):zhangheng_nku@yeah.net.
 
 A data-driven personal website
 ======
