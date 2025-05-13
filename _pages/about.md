@@ -20,7 +20,6 @@ Corporate Finance; Corporate Governance; Financial Market Microstructure; Intern
 Working Papers
 ======
 "Learning by Internationalization: Outward FDI and Investment-to-Stock Sensitivity", with Ruifeng Zhao and Dianchun Jiang. Submitted to Journal of International Money and Finance (R&R).
-[Working Paper](../_pubilications/Learning by Internationalization-wp.pdf).
 
 "Direct Network and Corporate OFDI: A Perspective from China", with Ruifeng Zhao, Jundong Zhang, and Dianchun Jiang.
 
