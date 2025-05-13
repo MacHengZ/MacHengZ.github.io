@@ -7,20 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a forth year undergraduate student (BEcon) from [School of Economics](https://economics.nankai.edu.cn), [Nankai University](https://www.nankai.edu.cn), and I'm going to [Department of Finance, Business school](https://www.bschool.cuhk.edu.hk/departments/finance/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to join MSc in Finance programme in 2025. After that, I'll keep chasing my academic path by a doctoral programme (not apply prasently).
-
-My research interests are Corporate Governance, International Business, MNEs, and Sustainable Development.
+I'm currently a Master of Science in Finance student at [Business School](https://www.bschool.cuhk.edu.hk), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I obtained my Bachelor degree in Economics from [School of Economics](https://economics.nankai.edu.cn), [Nankai University](https://www.nankai.edu.cn). 
 
 You can find my CV here: [ZHANG, Heng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
 
-You can contact me by my **e-mail**:zhangheng_nku@yeah.net.
+You can contact me by my **e-mail**: kmmacz@outlook.com.
 
-Education Background
+Research Interesting
 ======
-MSc in Fin, The Chinese University of Hong Kong, 2025-2026;
+Corporate Finance; Corporate Governance; Financial Market Microstructure; International Business
 
-BEcon, Nankai University, 2021-2025
-
-Research
+Working Papers
 ======
-I'm currently researching: 1) Trade barrier from native country: a special policy towards Chinese MNEs; and 2) Nonperforming loans and alternative finance.
+"Learning by Internationalization: Outward FDI and Investment-to-Stock Sensitivity", with Ruifeng Zhao and Dianchun Jiang. Submitted to Journal of International Money and Finance (R&R).
+[Working Paper](../_pubilications/Learning by Internationalization-wp.pdf).
+
+"Direct Network and Corporate OFDI: A Perspective from China", with Ruifeng Zhao, Jundong Zhang, and Dianchun Jiang.
+
+Work in Progress
+======
+"Trade and Welfare Effects of APEC", with Wei Jin.
+"Reverse Barriers from Home: A Special Anti-Dumping Case from China", with Wei Jin.
